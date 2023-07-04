@@ -17,21 +17,19 @@ My personal portfolio which features some of my github projects as well as my re
 ### User Story
 
 ```
-AS A marketing agency I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+Creating a portfolio from my github
 ```
 
 ### Acceptance Criteria
 
-- Changed website title and added a meta description for SEO;
-- Added alt text on images and icons for SEO and accessibility;
-- Use Semantic elements in the HTML document;
+- Create a portfolio based on a design decision
+- Use media queries to create a portfolio across different screens
 
 ### Mock-Up
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/images/01-html-css-git-challenge-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/images/ssssss.png)
 
 ### Technologies Used
 
@@ -40,7 +38,7 @@ The following image shows the web application's appearance and functionality:
 
 ### Usage
 
-You can clone this repository using `git clone https://github.com/faladetimilehin/falade-portfolio` or ssh `git clone git@github.com:faladetimilehin/falade-portfolior.git`
+You can clone this repository using `git clone https://github.com/faladetimilehin/falade-portfolio` or ssh `git clone git@github.com:faladetimilehin/falade-portfolio.git`
 
 ### Deployment
 
